@@ -1,0 +1,3 @@
+[console_scripts]
+xml2json = xml2json:main
+

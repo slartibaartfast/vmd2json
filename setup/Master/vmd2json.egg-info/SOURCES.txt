@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+vmd2json.egg-info/PKG-INFO
+vmd2json.egg-info/SOURCES.txt
+vmd2json.egg-info/dependency_links.txt
+vmd2json.egg-info/entry_points.txt
+vmd2json.egg-info/requires.txt
+vmd2json.egg-info/top_level.txt
